@@ -1,0 +1,54 @@
+money-technology-freedom.jpeg
+
+La nascita: il 1mo Novembre 2008 Satoshi Nakamoto invio una mail a un gruppo publico di
+cryptografia, spiegando il suo nuovo "sistema di contanti elettronico, completamente P2P".
+
+Definizione: Bitcoin è una rete di pagamenti con la propia unita contante, dove ogni membro
+appartenente puo verificare la autenticita di ogni pagamento, la fiducia nei terzi non è più
+riquiesta.
+Spiega come si fa un pagamento POS: al bar di Marina ad essempio, la banca fa il terzo agente che
+controlla che sulla carta ci siano fondi sufficenti, e ad la fine la banca del cliente sostrae la
+quantita giusta mentre che la banca di Marina aggiunge al suo conto.
+
+Il bitcoin aquisisce valor monetario quando in Ottobre 2009 un sito internet vende 
+5000 bitcoin per il prezzo di $5, il prezzo è stato calcola in base a la quantita di energia
+elettrica necessaria per la sua produzione.
+
+In Maggio 2010, due pizze (circa $50) furono aquistate con 10'000 bitcoin.
+
+Maggio 2022, una fu venduta in Portogallo per 3BTC senza converzione in euro
+
+https://bitcoinmagazine.com/business/first-ever-direct-house-sale-for-bitcoin-in-portugal
+
+Bitcoin vuole risolvere un problema antico come la societa stessa: avere una forma di denaro
+che cede il controllo assoluto al proprietario, e preservi su valore in lungo termine.
+
+Cosa e il denaro: 
+https://mises.org/what-has-government-done-our-money
+
+una economia ha bisogno di un modo di scambio di valore, prodotti x prodotti, o servizi x prodotti,
+etc. Fare degli essempi. Se essiste una merce che tutto volessero quello puo diventare denaro.
+Ma lo scambio funziona solo se essite la coincidenza di richiesta, ad essempio
+il calzolaio per poter acquistare pane puo aggiustare le scarpe al panetiere, ma e se il panetiere
+non ne ha bisogno?
+
+Un bene che assume il ruolo di mezzo di scambio ampiamente accettato è chiamato denaro.
+
+le proprieta principali del denaro sono:
+1. salabilita: facilita per lo scambio ogni qualvolta il proprietario lo desidera con un minimo di
+perdita di valore. 
+2. scarsita.
+3. 
+
+see traits-of-money.jpeg
+
+oro, argento, conchiglie, sale bestiame, gemme, sigarette, e denaro di carta. 
+
+
+ci sono altre crypto? si king.jpeg
+
+cersorship.jpeg
+
+is-btc-dying.jpg
+
+inflation.png

@@ -1,0 +1,14 @@
+\newcommand{\bitcoinA}{%
+  \leavevmode
+  \vtop{\offinterlineskip %\bfseries
+    \setbox0=\hbox{B}%
+    \setbox2=\hbox to\wd0{\hfil\hskip-.03em
+    \vrule height .3ex width .15ex\hskip .08em
+    \vrule height .3ex width .15ex\hfil}
+    \vbox{\copy2\box0}\box2}}
+
+\newcommand{\bitcoinC}{\leavevmode\rlap{\hskip.5pt-}B} 
+\newcommand{\Real}{\mathbb{R}} % Real numbers
+
+\newcommand{\btcec}{\textsc{secp256k1}}
+\newcommand{\Bitcoin}{Bitcoin}
